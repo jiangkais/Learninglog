@@ -1,2 +1,2 @@
-# First
+# Learning log
 # 介绍
